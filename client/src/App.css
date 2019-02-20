@@ -1,0 +1,13 @@
+.h1 {
+  text-align: center;
+}
+
+.main {
+  min-height: 75vh;
+  padding-bottom: 4vh;
+}
+
+.login {
+  min-height: 75vh;
+  padding: 8vh 0;
+}

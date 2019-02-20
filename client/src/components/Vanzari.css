@@ -1,0 +1,9 @@
+span {
+  float: right;
+}
+
+.btn {
+  display: block;
+  width: 65vw;
+  text-align: left;
+}
